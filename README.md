@@ -23,19 +23,19 @@ Este projeto responde três perguntas que qualquer gestor financeiro precisa mon
 
 ### Saldo de Caixa Acumulado
 
-![Saldo Acumulado](imagens/grafico_saldo_acumulado.png)
+![Saldo Acumulado](grafico_saldo_acumulado.png)
 
 **Insight principal:** apesar do crescimento no fechamento do período (saldo saiu de R$ 45 mil pra quase R$ 200 mil), houve um **ponto real de aperto entre março e abril**, quando o saldo chegou a ficar negativo. A causa: queda sazonal de vendas em março combinada com o pagamento de imposto trimestral e uma despesa extraordinária de manutenção. Sem visibilidade antecipada desse tipo de cenário, a empresa corre risco de não conseguir honrar compromissos no momento certo — é exatamente esse tipo de alerta que um dashboard de fluxo de caixa precisa entregar com antecedência.
 
 ### Entradas vs Saídas por Mês
 
-![Entradas vs Saídas](imagens/grafico_entradas_saidas_mes.png)
+![Entradas vs Saídas](grafico_entradas_saidas_mes.png)
 
 Março foi o único mês com resultado líquido fortemente negativo (-R$ 113 mil), refletindo a queda de vendas e a concentração de saídas naquele período. Abril ainda sentiu o reflexo antes da recuperação em maio e junho.
 
 ### Composição das Saídas
 
-![Composição das Saídas](imagens/grafico_composicao_saidas.png)
+![Composição das Saídas](grafico_composicao_saidas.png)
 
 **Fornecedores concentram 61% de todas as saídas do período** — o maior alavancador de negociação pra melhorar o caixa da empresa seria renegociar prazo ou condições com os principais fornecedores, não cortar despesas operacionais menores.
 
